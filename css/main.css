@@ -576,7 +576,6 @@ header .border-img {
     border-radius: 50%;
     background-color: #ddd;
     content: "";
-    background-image: url("../images/about-1.jpg");
 }
 
 .circle__inner {
